@@ -1,0 +1,5 @@
+portfolioService:
+  ollama:
+    hostname: smoothoperator
+  frontendImage: shubhamt134/frontend:0.0.1
+  backendImage: shubhamt134/backend:0.0.1
